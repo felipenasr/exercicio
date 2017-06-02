@@ -1,0 +1,13 @@
+header {
+    background: #ef4524;
+    padding: 10px;
+    border-top: 10px solid #1da5df;
+}
+
+.hbg-men {
+    background-color: transparent !important;
+    font-style: 1.5rem !important;
+}
+.resp-menu{
+	background: #1da5df !important;
+}
